@@ -1,0 +1,3 @@
+[submodule "repo_gb"]
+	path = repo_gb
+	url = https://github.com/inwardness/repo_gb.git
